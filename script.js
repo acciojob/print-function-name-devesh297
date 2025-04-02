@@ -1,1 +1,3 @@
-//your JS code here. If required.
+function functionName(){
+	alert(arrguments.callee.name);
+}
